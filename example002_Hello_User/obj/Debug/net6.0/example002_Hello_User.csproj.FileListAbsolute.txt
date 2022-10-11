@@ -1,0 +1,15 @@
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\bin\Debug\net6.0\example002_Hello_User.exe
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\bin\Debug\net6.0\example002_Hello_User.deps.json
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\bin\Debug\net6.0\example002_Hello_User.runtimeconfig.json
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\bin\Debug\net6.0\example002_Hello_User.dll
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\bin\Debug\net6.0\example002_Hello_User.pdb
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\example002_Hello_User.csproj.AssemblyReference.cache
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\example002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\example002_Hello_User.AssemblyInfoInputs.cache
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\example002_Hello_User.AssemblyInfo.cs
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\example002_Hello_User.csproj.CoreCompileInputs.cache
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\example002_Hello_User.dll
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\refint\example002_Hello_User.dll
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\example002_Hello_User.pdb
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\example002_Hello_User.genruntimeconfig.cache
+H:\GB\Знакомство c C#\Lection_1\example_1\example002_Hello_User\obj\Debug\net6.0\ref\example002_Hello_User.dll
