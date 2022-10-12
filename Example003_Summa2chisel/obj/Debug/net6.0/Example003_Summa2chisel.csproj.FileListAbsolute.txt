@@ -1,0 +1,15 @@
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\bin\Debug\net6.0\Example003_Summa2chisel.exe
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\bin\Debug\net6.0\Example003_Summa2chisel.deps.json
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\bin\Debug\net6.0\Example003_Summa2chisel.runtimeconfig.json
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\bin\Debug\net6.0\Example003_Summa2chisel.dll
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\bin\Debug\net6.0\Example003_Summa2chisel.pdb
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\Example003_Summa2chisel.csproj.AssemblyReference.cache
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\Example003_Summa2chisel.GeneratedMSBuildEditorConfig.editorconfig
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\Example003_Summa2chisel.AssemblyInfoInputs.cache
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\Example003_Summa2chisel.AssemblyInfo.cs
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\Example003_Summa2chisel.csproj.CoreCompileInputs.cache
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\Example003_Summa2chisel.dll
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\refint\Example003_Summa2chisel.dll
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\Example003_Summa2chisel.pdb
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\Example003_Summa2chisel.genruntimeconfig.cache
+H:\GB\Знакомство c C#\Lection_1\example_1\Example003_Summa2chisel\obj\Debug\net6.0\ref\Example003_Summa2chisel.dll
